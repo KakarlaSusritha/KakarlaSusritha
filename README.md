@@ -15,8 +15,7 @@
 </h1>
 
 ### :woman_technologist: About Me :</br>
-- :telescope: I’m pursuing Masters in Cyber Security </br>
-- 🍀Technology enthusiast.
+- :telescope:🍀Technology enthusiast.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KakarlaSusritha)](https://git.io/streak-stats)
